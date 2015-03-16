@@ -40,3 +40,6 @@ gem 'spring',        group: :development
 
 #bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+#font awesome
+gem 'font-awesome-rails'
