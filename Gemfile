@@ -49,3 +49,6 @@ gem 'simple_form'
 
 #devise gem
 gem 'devise'
+
+#Auto HTML gem - helps with links in the To Do list
+gem "auto_html"
